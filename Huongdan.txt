@@ -1,0 +1,4 @@
+File config: "\system\config\config.php"
+Login
+Ten tai khoan	: admin
+Mat khau	: 1
